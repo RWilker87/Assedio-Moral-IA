@@ -53,9 +53,6 @@ O projeto está organizado na seguinte estrutura de diretórios para manter a cl
 |   |-- 📄 guia_assedio_moral.pdf  # Documento original
 |   |-- 📄 base_conhecimento.json  # Conhecimento estruturado para o sistema
 |
-|-- 📂 assets/
-|   |-- 📄 style.css               # Estilos personalizados 
-|
 |-- 📂 pages/
 |   |-- 📜 1_Analisar_Situação.py  # Página principal de análise
 |   |-- 📜 2_Consultar_o_Guia.py   # Página de consulta direta ao guia
