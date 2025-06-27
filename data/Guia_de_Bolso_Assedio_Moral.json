@@ -1,0 +1,130 @@
+{
+  "definicao_geral": {
+    "titulo": "O que é Assédio Moral?",
+    "conteudo": "É a violação da dignidade ou integridade psíquica ou física de outra pessoa por meio de conduta abusiva, independentemente de intencionalidade, por meio da degradação das relações socioprofissionais e do ambiente de trabalho. Pode se caracterizar pela exigência de cumprimento de tarefas desnecessárias ou exorbitantes, discriminação, humilhação, constrangimento, isolamento, exclusão social, difamação ou situações humilhantes e constrangedoras, suscetíveis de causar sofrimento, dano físico ou psicológico.",
+    "pagina_guia": 11
+  },
+  "tipos_de_assedio": [
+    {
+      "tipo": "Assédio Moral Vertical",
+      "descricao": "Ocorre em uma relação de hierarquia (descendente ou ascendente) entre agressor(a) e assediado(a).",
+      "pagina_guia": 22
+    },
+    {
+      "tipo": "Assédio Moral Horizontal",
+      "descricao": "Acontece entre pessoas de mesma hierarquia (colegas). Também conhecido como 'bullying'.",
+      "pagina_guia": 22
+    },
+    {
+      "tipo": "Assédio Moral Misto",
+      "descricao": "É o assédio coordenado de superiores hierárquicos e de colegas de trabalho com os quais a vítima não possui relação de subordinação.",
+      "pagina_guia": 22
+    },
+    {
+      "tipo": "Assédio Organizacional ou Institucional",
+      "descricao": "São condutas abusivas amparadas por estratégias organizacionais ou métodos de gestão para conseguir o cumprimento de metas a qualquer custo, como a gestão por estresse.",
+      "pagina_guia": 23
+    }
+  ],
+  "condutas": [
+    {
+      "conduta": "Privar de instrumentos de trabalho",
+      "descricao": "Privar a pessoa do acesso aos instrumentos necessários para a realização de seu trabalho.",
+      "pagina_guia": 14
+    },
+    {
+      "conduta": "Sonegar ou dar informações incorretas",
+      "descricao": "Sonegar informações essenciais para a execução de tarefas ou fornecer dados incorretos que induzam ao erro.",
+      "pagina_guia": 14
+    },
+    {
+      "conduta": "Deixar a pessoa ociosa ou em situações humilhantes",
+      "descricao": "Não atribuir atividades a uma pessoa, deixando-a sem tarefas a cumprir, ou colocá-la em situações humilhantes diante dos colegas.",
+      "pagina_guia": 14
+    },
+    {
+      "conduta": "Criticar de forma exagerada ou injusta",
+      "descricao": "Contestar sistematicamente as decisões da pessoa e criticar seu trabalho de forma exagerada ou injusta, especialmente em público.",
+      "pagina_guia": 14
+    },
+    {
+      "conduta": "Sobrecarga de Tarefas",
+      "descricao": "Sobrecarregar constantemente a pessoa com uma quantidade excessiva de tarefas em comparação aos colegas.",
+      "pagina_guia": 14
+    },
+    {
+      "conduta": "Exigir tarefas urgentes desnecessariamente",
+      "descricao": "Exigir, de maneira recorrente e desnecessária, a execução de tarefas urgentes.",
+      "pagina_guia": 15
+    },
+    {
+      "conduta": "Atribuir tarefas incompatíveis com a função",
+      "descricao": "Atribuir intencionalmente e com frequência tarefas que não condizem com as atribuições da pessoa, sejam elas inferiores ou superiores à sua função.",
+      "pagina_guia": 15
+    },
+    {
+      "conduta": "Dificultar ou impedir promoções",
+      "descricao": "Dificultar ou impedir promoções ou o exercício de funções diferenciadas.",
+      "pagina_guia": 15
+    },
+    {
+      "conduta": "Isolar a pessoa no ambiente de trabalho",
+      "descricao": "Isolar a pessoa no ambiente de trabalho, seja fisicamente, seja por meio da recusa de comunicação.",
+      "pagina_guia": 16
+    },
+    {
+      "conduta": "Agredir verbalmente",
+      "descricao": "Agredir verbalmente, gritar, dirigir gestos de desprezo ou ameaçar com violência física e/ou emocional.",
+      "pagina_guia": 16
+    },
+    {
+      "conduta": "Espalhar boatos e fofocas",
+      "descricao": "Espalhar boatos ou fofocas sobre a pessoa, ou fazer piadas para desmoralizá-la ou constrangê-la.",
+      "pagina_guia": 16
+    },
+    {
+      "conduta": "Invadir a privacidade",
+      "descricao": "Invadir a privacidade da pessoa, escutando ligações telefônicas, lendo correspondências, mensagens em aplicativos ou e-mails sem autorização.",
+      "pagina_guia": 18
+    },
+    {
+      "conduta": "Ignorar a presença da pessoa",
+      "descricao": "Ignorar a presença da pessoa, dirigindo-se apenas aos demais.",
+      "pagina_guia": 18
+    }
+  ],
+  "o_que_fazer": [
+    {
+      "titulo": "Como proceder se você for a vítima",
+      "passos": [
+        "Anotar detalhadamente todas as situações: data, horário, local, nome do agressor, testemunhas e descrição dos fatos.",
+        "Coletar provas, como documentos, e-mails, e prints de mensagens.",
+        "Indicar colegas ou superiores que possam ser testemunhas.",
+        "Denunciar aos órgãos competentes (Ouvidoria, via Plataforma Fala.BR).",
+        "Dividir o problema com colegas de confiança, familiares e amigos.",
+        "Buscar apoio de profissionais de saúde, se necessário."
+      ],
+      "pagina_guia": "27-28"
+    },
+    {
+      "titulo": "Como proteger seus colegas",
+      "passos": [
+        "Veja se colegas estão isolados no ambiente de trabalho e procure conversar.",
+        "Preste atenção se os colegas estão reproduzindo atos de violência psicológica iniciados por um superior.",
+        "Seja o primeiro a romper o pacto de tolerância, omissão e silêncio com o assédio."
+      ],
+      "pagina_guia": 26
+    },
+    {
+      "titulo": "Canais de Denúncia",
+      "passos": [
+        "A denúncia deve ser realizada preferencialmente pela Plataforma Fala.BR.",
+        "Endereço: https://falabr.cgu.gov.br/web/home",
+        "No sistema, acesse a opção 'Ouvidoria Interna'.",
+        "Escolha a manifestação do tipo 'Denúncia'.",
+        "Selecione o assunto 'Assédio Moral'."
+      ],
+      "pagina_guia": 31
+    }
+  ]
+}
