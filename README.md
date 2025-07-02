@@ -74,12 +74,12 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/RWilker87/Assedio-Moral-IA](https://github.com/RWilker87/Assedio-Moral-IA)
     ```
 
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd Assedio-Moral-IA
     ```
 
 ### Execução
