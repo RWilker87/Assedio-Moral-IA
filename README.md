@@ -61,6 +61,16 @@ O projeto está organizado na seguinte estrutura de diretórios para manter a cl
 |-- 📜 README.md                   # Este arquivo
 ```
 
+---
+
+## 👨‍💻 Desenvolvido por
+
+[Victor Winicius Barros Santos](https://github.com/VictorW-dev)
+
+[Rian Wilker Santos Melo](https://github.com/RWilker87)
+
+
+
 ## 🚀 Como Rodar o Projeto Localmente
 
 Siga os passos abaixo para configurar e executar o projeto em sua máquina.

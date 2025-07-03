@@ -7,7 +7,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
     menu_items={
         'Get Help': 'https://www.ufape.edu.br/br/ouvidoria',
-        'Report a bug': "https://github.com/seu-usuario/seu-repositorio/issues",
+        'Report a bug': "https://github.com/RWilker87/Assedio-Moral-IA/issues",
         'About': """
         **Sistema Especialista para Análise de Casos de Assédio Moral na UFAPE**
 
